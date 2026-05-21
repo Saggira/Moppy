@@ -1,0 +1,7 @@
+{
+  "name": "moppy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
